@@ -1,0 +1,38 @@
+[
+  {
+    "product_code": "DEMO001",
+    "document_id": "manual-demo001-v1",
+    "page": 1,
+    "text": "模拟产品 DEMO001 风险等级 R2。产品信息不构成投资建议。"
+  },
+  {
+    "product_code": "DEMO001",
+    "document_id": "manual-demo001-v1",
+    "page": 2,
+    "text": "模拟产品 DEMO001 的赎回规则：受理日为工作日，资金到账时间请以最新产品合同和公告为准。"
+  },
+  {
+    "product_code": "DEMO001",
+    "document_id": "manual-demo001-v1",
+    "page": 3,
+    "text": "模拟产品 DEMO001 的申购规则：请核对最低金额、费率及开放日期，不承诺收益。"
+  },
+  {
+    "product_code": "DEMO002",
+    "document_id": "manual-demo002-v1",
+    "page": 1,
+    "text": "模拟产品 DEMO002 风险等级 R3，风险等级高于 DEMO001；此处是合成示例数据。"
+  },
+  {
+    "product_code": "DEMO002",
+    "document_id": "manual-demo002-v1",
+    "page": 2,
+    "text": "模拟产品 DEMO002 的赎回规则：以其对应产品说明书约定的开放日为准。"
+  },
+  {
+    "product_code": "DEMO003",
+    "document_id": "manual-demo003-v1",
+    "page": 1,
+    "text": "模拟产品 DEMO003 风险等级 R1。所有字段仅供软件开发测试。"
+  }
+]

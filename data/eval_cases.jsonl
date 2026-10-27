@@ -1,0 +1,5 @@
+{"question": "DEMO001风险等级是什么？", "expected_intent": "product_info", "expected_product": "DEMO001", "require_source": true}
+{"question": "DEMO002基本信息是什么？", "expected_intent": "product_info", "expected_product": "DEMO002", "require_source": true}
+{"question": "DEMO001赎回规则是什么？", "expected_intent": "document_qa", "expected_product": "DEMO001", "require_source": true}
+{"question": "比较DEMO001和DEMO002的风险等级", "expected_intent": "compare_products", "expected_product": "DEMO002", "require_source": true}
+{"question": "DEMO003的申购限制是什么？", "expected_intent": "document_qa", "expected_product": "DEMO003", "require_source": true}

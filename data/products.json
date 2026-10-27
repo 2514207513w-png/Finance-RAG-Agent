@@ -1,0 +1,23 @@
+[
+  {
+    "code": "DEMO001",
+    "name": "合成稳健产品示例A",
+    "risk_level": "R2",
+    "source_url": "demo://product/DEMO001",
+    "updated_at": "2026-10-01"
+  },
+  {
+    "code": "DEMO002",
+    "name": "合成成长产品示例B",
+    "risk_level": "R3",
+    "source_url": "demo://product/DEMO002",
+    "updated_at": "2026-10-01"
+  },
+  {
+    "code": "DEMO003",
+    "name": "合成债券产品示例C",
+    "risk_level": "R1",
+    "source_url": "demo://product/DEMO003",
+    "updated_at": "2026-10-01"
+  }
+]
