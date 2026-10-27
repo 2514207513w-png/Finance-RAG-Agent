@@ -1,0 +1,12 @@
+services:
+  finance-agent:
+    build: .
+    ports:
+      - "127.0.0.1:8010:8010"
+    env_file:
+      - path: .env
+        required: false
+    environment:
+      AGENT_MODE: ${AGENT_MODE:-offline}
+      BACKEND_MODE: ${BACKEND_MODE:-sample}
+      EMBEDDING_MODE: ${EMBEDDING_MODE:-hash}
